@@ -23,7 +23,6 @@ _hobilerim_
 
 
 
-Paylaşılmaktadır
 
 Sayfa yöneticisi  [osman can](osman-can.github.io) tarafından yapılmaktadır
 
